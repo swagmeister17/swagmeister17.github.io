@@ -1,7 +1,8 @@
 <html>
   <body style="background-color:black;">
 
-# **#Pickchurrs**
+
+# #Pickchurrs
 *Caught High*
 
 <img align="center" width="731" height="549" alt="IMG_1305" src="https://github.com/user-attachments/assets/3fef96be-72cf-4bb8-8450-26c367324457" />
