@@ -1,3 +1,5 @@
+The background color is `#000000`.
+
 # **#Pickchurrs**
 *Caught High*
 
@@ -7,8 +9,6 @@
 
 
 ~*untitled*~ 
-
-<body bgcolor="black">
   
 <img align="center" width="731" height="549" alt="IMG_1305" src="https://github.com/user-attachments/assets/c316a43c-1079-4580-8c32-e06739d27207" />
 
