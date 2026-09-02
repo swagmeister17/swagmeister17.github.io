@@ -1,4 +1,4 @@
-The background color is `#000000`.
+<body background-color=`#000000`>
 
 # **#Pickchurrs**
 *Caught High*
