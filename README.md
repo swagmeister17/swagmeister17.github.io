@@ -145,7 +145,7 @@ Tenant parking only
 
 ***Alice***
 
-<img width="1600" height="1200" alt="P7090010" src="https://github.com/user-attachments/assets/76d3bd01-1cb3-48fe-9c02-0d481d7e443b" />
+<img align="center" width="666" height="500" alt="P7090010" src="https://github.com/user-attachments/assets/76d3bd01-1cb3-48fe-9c02-0d481d7e443b" />
 
 *070926*
 
