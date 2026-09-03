@@ -5,7 +5,7 @@
 
 *080625*
 
-~untitled~ 
+untitled 
   
 <img align="center" width="666" height="500" alt="IMG_1305" src="https://github.com/user-attachments/assets/c316a43c-1079-4580-8c32-e06739d27207" />
 
@@ -41,7 +41,7 @@ powerlines
 
 *011926*
 
-~untitled~
+untitled
 
 <img align="center" width="666" height="500" alt="IMG_6976" src="https://github.com/user-attachments/assets/5de72594-797a-4fad-b443-dff9bd882abf" />
 
