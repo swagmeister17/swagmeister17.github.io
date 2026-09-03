@@ -65,7 +65,7 @@ powerlines
 
 *030726*
 
-~untitled~
+untitled
 
 <img align="center" width="666" height="500" alt="IMG_6980" src="https://github.com/user-attachments/assets/48a6ab24-7099-4e74-a630-d3adc20dc209" />
 
