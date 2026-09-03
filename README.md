@@ -1,6 +1,6 @@
 # #Pickchurrs
 
-*Caught High*
+<p style="color:light-grey;">*Caught High*</p>
 
 <img align="center" width="666" height="500" alt="IMG_1305" src="https://github.com/user-attachments/assets/3fef96be-72cf-4bb8-8450-26c367324457" />
 
@@ -287,6 +287,8 @@ always in motion
 <img align="center" width="666" height="500" alt="P8190055" src="https://github.com/user-attachments/assets/cf45b365-3eb9-4960-97cb-4bf819ed9222" />
 
 *083026*
+
+
 
 
 
