@@ -1,6 +1,6 @@
 # #Pickchurrs
 
-<p style="color:silver;">*Caught High*</p>
+<p style="color:silver;"> *Caught High* </p>
 
 <img align="center" width="666" height="500" alt="IMG_1305" src="https://github.com/user-attachments/assets/3fef96be-72cf-4bb8-8450-26c367324457" />
 
