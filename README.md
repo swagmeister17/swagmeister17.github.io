@@ -17,19 +17,19 @@
 
 *090725*
 
-Four
+<sub>Four</sub>
 
 <img align="center" width="666" height="500" alt="IMG_1305" src="https://github.com/user-attachments/assets/83a442ff-91e7-42ad-97b5-601e2fc51538" />
 
 *090825*
 
-<sub>mb</sub>
+<sub>untitled</sub>
 
 <img align="center" width="666" height="500" alt="IMG_1305" src="https://github.com/user-attachments/assets/00e1ade8-6b6e-466c-852b-bc64f5603d4f" />
 
 *101625*
 
-*cats in the cold*
+*"cats in the cold"*
 
 <img align="center" width="666" height="500" alt="IMG_6903" src="https://github.com/user-attachments/assets/a21d68be-e4ef-4c0f-b253-0b6d5174616d" />
 
