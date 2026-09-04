@@ -252,7 +252,7 @@
 
 <p style="color:silver;">083026</p>
 
-<p style="color:silver;"><sub>u</sub></p>
+<p style="color:silver;"><sub>untitled</sub></p>
 
 <img align="center" width="620" height="465" alt="P8190034 1" src="https://github.com/user-attachments/assets/48e2acea-7682-4587-9f3e-180d8d748bc1" />
 
@@ -264,7 +264,7 @@
 
 <p style="color:silver;">083026</p>
 
-<p style="color:silver;">chasm</p>
+<p style="color:silver;">untitled</p>
 
 <img align="center" width="620" height="465" alt="P8190047" src="https://github.com/user-attachments/assets/7a7458e3-3eeb-4865-889d-31432e5e73ce" />
 
@@ -276,7 +276,7 @@
 
 <p style="color:silver;">083026</p>
 
-<p style="color:silver;"><sub>leaving?</sub></p>
+<p style="color:silver;"><sub>l</sub></p>
 
 <img align="center" width="620" height="465" alt="P8190053" src="https://github.com/user-attachments/assets/d171146e-e038-4174-9db9-655f07087aa4" />
 
